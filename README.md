@@ -37,6 +37,6 @@ A new Laravel application I'm currently building.
 
 ## 📫 Contact
 
-- **Email:** norulamg@gmai.com
+- **Email:** norulamg@gmail.com
 - **Facebook / LinkedIn:** www.linkedin.com/in/norul-am-guiamel-5b6a1b349
 - **Location:** Cotabato City, BARMM, Philippines. Available for remote work.
